@@ -30,7 +30,7 @@ Retrieves enriched data from the API and displays it to the user.
 -----
 
 project-root
-├── src
+| ── src
 │   ├── jobs             # For all cron job scripts
 │   │   └── cronJob.ts      # The main cron job script
 │   ├── services           # For service integrations (e.g., Supabase, LLM API)
@@ -41,7 +41,7 @@ project-root
 │   │   └── env.ts          # For loading and managing environment variables
 │   └── index.ts            # The main entry point
 │
-├── .env                    # Environment variables
+|── .env                    # Environment variables
 ├── package.json            # npm configuration
 ├── tsconfig.json           # TypeScript configuration
 └── README.md               # Project documentation
