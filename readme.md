@@ -46,4 +46,3 @@ project-root/
 ├── package.json            # npm configuration
 ├── tsconfig.json           # TypeScript configuration
 └── README.md               # Project documentation
-
