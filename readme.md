@@ -30,7 +30,6 @@ Retrieves enriched data from the API and displays it to the user.
 -----
 
 project-root
-│
 ├── src
 │   ├── jobs             # For all cron job scripts
 │   │   └── cronJob.ts      # The main cron job script
