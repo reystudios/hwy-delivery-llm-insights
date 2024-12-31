@@ -1,0 +1,51 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Node.js
+node_modules/
+dist/
+.npm/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# TypeScript
+*.tsbuildinfo
+
+# Supabase local setup
+.supabase/
+supabase/.temp/
+supabase/.cache/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+.DS_Store
+
+# Temporary files
+*.tmp
+*.temp
+*.pid
+*.seed
+
+# System files
+Thumbs.db
+desktop.ini
+
+# Compiled files and builds
+build/
+out/
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Git-specific files
+*.orig
